@@ -14,3 +14,9 @@
 ##### Working on a Web basis may cause resolution to be incorrect on other devices.
 
 `Web 기준으로 작업하여 다른 Devices 에서 해상도가 맞지 않을 수 있습니다.`
+
+
+
+### < Screen Shot >
+
+<left><img src="https://user-images.githubusercontent.com/25942272/169181163-890b5503-f312-457f-b0d7-bfa4ee7d30d8.jpg" width="40%" height="40%"></left>
