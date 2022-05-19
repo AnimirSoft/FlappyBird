@@ -7,6 +7,9 @@
 
 `Flame 1.1.1 버전 입니다.`
 
+- [Flame API](https://docs.flame-engine.org/1.1.1/index.html)
+- [Flame DEMO](https://examples.flame-engine.org/#/)
+
 ##### I hope it helps someone a little bit.
 
 `누군가에게 조금이나마 도움이 되길 바랍니다.`
